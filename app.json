@@ -1,0 +1,12 @@
+{
+  "name": "assignmentThree",
+  "displayName": "assignmentThree",
+  "expo": {
+    "name": "assignmentThree",
+    "slug": "assignmentThree",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
